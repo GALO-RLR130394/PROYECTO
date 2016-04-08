@@ -1,4 +1,11 @@
 EJEMPLO
 
+<<<<<<< .mine
 hola raul
-HOLA ARTURIN
+
+Virus T PELIGO!!!!||||||| .r4
+hola raul=======
+hola raul
+HOLA ARTURIN>>>>>>> .r5
+
+no se  que hice
